@@ -245,8 +245,11 @@ function esVocal(letra){
 }
 
 * Variables: Es la forma como uno puede asignar, guardar el valor de algo para luego rápidamente tener acceso a él y hacer la acción que se necesite, cambiarlo, usarlo...
-* Strings: Es una cadena de caracteres, como por ejemplo letras, números, simbolos,los cuales ayudan a formar alguna formula para ser ejecutada. Estás van encerradas entre dos comillas ''.
-* Funciones (argumentos, 'return'): Conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que esto funcione debe tener una entrada y devolver una salida, Los Argumentos son los datos o valores reales que uno pone en una variable para realizar alguna función y el Return es la forma que uno tiene para finaizar una función y devolver un valor pedido inicialmente en la función
+* Strings: Es una cadena de caracteres, como por ejemplo letras, números, simbolos,los cuales ayudan a formar alguna formula para ser ejecutada. Estás van encerradas 
+  entre dos comillas ''.
+* Funciones (argumentos, 'return'): Conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que esto funcione debe tener una entrada y devolver 
+  una salida, Los Argumentos son los datos o valores reales que uno pone en una variable para realizar alguna función y el Return es la forma que uno tiene para finaizar 
+  una función y devolver un valor pedido inicialmente en la función
 * Declaraciones: Es la forma como uno le da instrucciones a una computadora.
 * Valores Booleanos: Es un tipo dato que compara y tiene dos opciones de respuesta, como por ejemplo, verdadero o falso (true or false), sí o no, activar o desactivar...
 
